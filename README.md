@@ -1,4 +1,4 @@
-# Quote App V2
+# Quote App 
 
 A simple Flutter mobile app that displays daily inspirational quotes with matching images. Tap **Next Quote** to cycle through five motivational messages.
 
